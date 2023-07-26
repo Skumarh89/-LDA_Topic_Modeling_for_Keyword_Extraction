@@ -1,4 +1,4 @@
-# -LDA_Topic_Modeling_for_Keyword_Extraction
+# LDA_Topic_Modeling_for_Keyword_Extraction
 
 This project aims to build a text analysis tool that performs the following tasks:
 
